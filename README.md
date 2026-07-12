@@ -23,6 +23,13 @@
 
 ---
 
+### 📁 ACTIVE PROJECT ARCHIVE
+*   🛡️ **[LogSentry](projects/log_sentry/)**: A Python-based access log threat scanner to detect SQL Injection, XSS, Path Traversal, and Brute Force patterns.
+*   🔑 **[PasswordVault](projects/password_vault/)**: A secure command-line key generator and entropy analyzer evaluating password strength using mathematical bits metrics.
+*   📡 **[NetRadar](projects/net_radar/)**: A multi-threaded host network status pinger (verifying latency) and connectivity scanner checking exposed ports.
+
+---
+
 ### 👤 OPERATOR INTEL
 | METRIC | DIRECTIVE |
 | :--- | :--- |
