@@ -24,9 +24,9 @@
 ---
 
 ### 📁 ACTIVE PROJECT ARCHIVE
-*   🛡️ **[LogSentry](projects/log_sentry/)**: A Python-based access log threat scanner to detect SQL Injection, XSS, Path Traversal, and Brute Force patterns.
-*   🔑 **[PasswordVault](projects/password_vault/)**: A secure command-line key generator and entropy analyzer evaluating password strength using mathematical bits metrics.
-*   📡 **[NetRadar](projects/net_radar/)**: A multi-threaded host network status pinger (verifying latency) and connectivity scanner checking exposed ports.
+*   🛡️ **[PromptGuard](projects/prompt_guard/)**: An input firewall for Large Language Models (LLMs) to scan for and intercept Prompt Injections, Jailbreak payloads, and sensitive PII leaks.
+*   📡 **[AI Anomaly Detector](projects/ai_anomaly_detector/)**: A cognitive intrusion detection system (IDS) utilizing dynamic standard deviation Z-score modeling to automatically identify DDoS and exfiltration outliers.
+*   🧠 **[AI Phishing Detector](projects/ai_phishing_detector/)**: A self-contained NLP threat classifier combining lexical vectors to calculate real-time social engineering and phishing risk probability.
 
 ---
 
