@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/elite_header.jpg" width="100%" alt="Vamshi Krishna - Cybersecurity & AI Systems Developer" />
-</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-OPERATIONAL-00FFCC?style=for-the-badge&logo=statuspage&logoColor=00FFCC" />
