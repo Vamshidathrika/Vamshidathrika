@@ -13,12 +13,12 @@
 ### 📊 METRICS & LIVE TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Vamshidathrika&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vamshidathrika&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Vamshidathrika&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800&v=3" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vamshidathrika&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800&v=3" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Vamshidathrika&theme=highcontrast&hide_border=false" width="97%" />
+  <img src="https://streak-stats.demolab.com/?user=Vamshidathrika&theme=highcontrast&hide_border=false&v=3" width="97%" />
 </p>
 
 ---
